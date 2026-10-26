@@ -1,0 +1,9 @@
+
+body {
+    font-family: Arial;
+    text-align: left;
+}
+
+input, button {
+    padding: 5px;
+}
